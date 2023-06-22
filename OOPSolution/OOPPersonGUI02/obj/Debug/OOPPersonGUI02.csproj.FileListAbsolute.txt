@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\bin\Debug\OOPPersonGUI02.exe.config
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\bin\Debug\OOPPersonGUI02.exe
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\bin\Debug\OOPPersonGUI02.pdb
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.Form1.resources
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.Properties.Resources.resources
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.exe
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonGUI02\obj\Debug\OOPPersonGUI02.pdb

@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\bin\Debug\OOPPersonConsole.exe.config
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\bin\Debug\OOPPersonConsole.exe
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\bin\Debug\OOPPersonConsole.pdb
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\obj\Debug\OOPPersonConsole.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\obj\Debug\OOPPersonConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\obj\Debug\OOPPersonConsole.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\obj\Debug\OOPPersonConsole.exe
+C:\Users\jpscott\Desktop\IntroToOOP\OOPSolution\OOPPersonConsole\obj\Debug\OOPPersonConsole.pdb
